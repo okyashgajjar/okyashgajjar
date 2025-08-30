@@ -42,7 +42,7 @@
 
 ### ⚙️ Languages & Tools  
 
-<div>
+<div align="center">
 
 | **Category** | **Technologies** |
 |--------------|------------------|
