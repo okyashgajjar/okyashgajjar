@@ -42,8 +42,26 @@
 
 ### ⚙️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,git,github,linux,docker,flask,mysql,html,css,js,java,postman,figma,firebase" />
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="50"/><br>Python</a> &nbsp;&nbsp;
+  <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow" height="50"/><br>TensorFlow</a> &nbsp;&nbsp;
+  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" height="50"/><br>PyTorch</a> &nbsp;&nbsp;
+  <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" height="50"/><br>Scikit-Learn</a> &nbsp;&nbsp;
+  <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" height="50"/><br>OpenCV</a> &nbsp;&nbsp;
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="50"/><br>Git</a> &nbsp;&nbsp;
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="50"/><br>GitHub</a> &nbsp;&nbsp;
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="50"/><br>Linux</a> &nbsp;&nbsp;
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="50"/><br>Docker</a> &nbsp;&nbsp;
+  <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" height="50"/><br>Flask</a> &nbsp;&nbsp;
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="50"/><br>MySQL</a> &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="50"/><br>HTML</a> &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="50"/><br>CSS</a> &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="50"/><br>JavaScript</a> &nbsp;&nbsp;
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="50"/><br>Java</a> &nbsp;&nbsp;
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="50"/><br>Postman</a> &nbsp;&nbsp;
+  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" height="50"/><br>Figma</a> &nbsp;&nbsp;
+  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" height="50"/><br>Firebase</a>
 </p>
+
 
 ---
 
