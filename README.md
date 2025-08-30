@@ -60,10 +60,11 @@
 ---
 
 ### 🚀 Featured Projects  
-- 🤖 [AI Call Security System](#) – Detecting scam & AI-generated calls in real time  
-- 🏙️ [Ahmedabad Fix](#) – Civic issue reporting platform with AI integration  
-- 🎓 [Study Content Converter](#) – AI-based text-to-video explainer tool  
-- 📈 [Job Predictor](#) – ML model predicting jobs based on skills & trends  
+- 🤖 [Fake & Real News Detector](https://github.com/okyashgajjar/Fake-Real-News-Detector) – Detects fake vs real news articles using NLP techniques.  
+- 🏙️ [Resume Screening App](https://github.com/okyashgajjar/Resume-Screening-App) – Scans resumes, predicts suitable roles, and suggests improvements.  
+- 🎓 [Medicine Recommendation System](https://github.com/okyashgajjar/Medicine-Recommandation-System) – ML-based medicine recommender & disease predictor based on symptoms.  
+- 📈 [Aspirely](https://github.com/okyashgajjar/Aspirely) – AI-powered virtual career guidance platform.  
+
 
 ---
 
