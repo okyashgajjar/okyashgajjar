@@ -40,123 +40,20 @@
 
 ---
 
-### ⚙️ Languages & Tools
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.python.org">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.tensorflow.org">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-      </a>
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <a href="https://pytorch.org">
-        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
-      </a>
-      <br>PyTorch
-    </td>
-    <td align="center" width="96">
-      <a href="https://scikit-learn.org/">
-        <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-Learn" />
-      </a>
-      <br>Scikit-Learn
-    </td>
-    <td align="center" width="96">
-      <a href="https://opencv.org/">
-        <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
-      </a>
-      <br>OpenCV
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.docker.com/">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://git-scm.com/">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      </a>
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.linux.org/">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="https://flask.palletsprojects.com/">
-        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-      </a>
-      <br>Flask
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.mysql.com/">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="https://firebase.google.com/">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/docs/Web/HTML">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/docs/Web/CSS">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/docs/Web/JavaScript">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.java.com/">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.postman.com/">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      </a>
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.figma.com/">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
-  </tr>
-</table>
+### ⚙️ Languages & Tools  
+
+<div align="center">
+
+| **AI/ML** | **Web Dev** | **Databases** | **Tools** |
+|-----------|-------------|---------------|-----------|
+| <img src="https://skillicons.dev/icons?i=python" height="40"><br>Python | <img src="https://skillicons.dev/icons?i=html" height="40"><br>HTML | <img src="https://skillicons.dev/icons?i=mysql" height="40"><br>MySQL | <img src="https://skillicons.dev/icons?i=git" height="40"><br>Git |
+| <img src="https://skillicons.dev/icons?i=tensorflow" height="40"><br>TensorFlow | <img src="https://skillicons.dev/icons?i=css" height="40"><br>CSS | <img src="https://skillicons.dev/icons?i=firebase" height="40"><br>Firebase | <img src="https://skillicons.dev/icons?i=github" height="40"><br>GitHub |
+| <img src="https://skillicons.dev/icons?i=pytorch" height="40"><br>PyTorch | <img src="https://skillicons.dev/icons?i=js" height="40"><br>JavaScript |   | <img src="https://skillicons.dev/icons?i=postman" height="40"><br>Postman |
+| <img src="https://skillicons.dev/icons?i=sklearn" height="40"><br>Scikit-Learn | <img src="https://skillicons.dev/icons?i=flask" height="40"><br>Flask |   | <img src="https://skillicons.dev/icons?i=docker" height="40"><br>Docker |
+| <img src="https://skillicons.dev/icons?i=opencv" height="40"><br>OpenCV | <img src="https://skillicons.dev/icons?i=java" height="40"><br>Java |   | <img src="https://skillicons.dev/icons?i=linux" height="40"><br>Linux |
+|   |   |   | <img src="https://skillicons.dev/icons?i=figma" height="40"><br>Figma |
+
+</div>
 
 ---
 
