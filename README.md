@@ -42,18 +42,17 @@
 
 ### ⚙️ Languages & Tools  
 
-<div align="center">
+<div>
 
-| **AI/ML** | **Web Dev** | **Databases** | **Tools** |
-|-----------|-------------|---------------|-----------|
-| <img src="https://skillicons.dev/icons?i=python" height="40"><br>Python | <img src="https://skillicons.dev/icons?i=html" height="40"><br>HTML | <img src="https://skillicons.dev/icons?i=mysql" height="40"><br>MySQL | <img src="https://skillicons.dev/icons?i=git" height="40"><br>Git |
-| <img src="https://skillicons.dev/icons?i=tensorflow" height="40"><br>TensorFlow | <img src="https://skillicons.dev/icons?i=css" height="40"><br>CSS | <img src="https://skillicons.dev/icons?i=firebase" height="40"><br>Firebase | <img src="https://skillicons.dev/icons?i=github" height="40"><br>GitHub |
-| <img src="https://skillicons.dev/icons?i=pytorch" height="40"><br>PyTorch | <img src="https://skillicons.dev/icons?i=js" height="40"><br>JavaScript |   | <img src="https://skillicons.dev/icons?i=postman" height="40"><br>Postman |
-| <img src="https://skillicons.dev/icons?i=sklearn" height="40"><br>Scikit-Learn | <img src="https://skillicons.dev/icons?i=flask" height="40"><br>Flask |   | <img src="https://skillicons.dev/icons?i=docker" height="40"><br>Docker |
-| <img src="https://skillicons.dev/icons?i=opencv" height="40"><br>OpenCV | <img src="https://skillicons.dev/icons?i=java" height="40"><br>Java |   | <img src="https://skillicons.dev/icons?i=linux" height="40"><br>Linux |
-|   |   |   | <img src="https://skillicons.dev/icons?i=figma" height="40"><br>Figma |
+| **Category** | **Technologies** |
+|--------------|------------------|
+| **AI / ML** | <img src="https://skillicons.dev/icons?i=python" height="40"> Python &nbsp; <img src="https://skillicons.dev/icons?i=tensorflow" height="40"> TensorFlow &nbsp; <img src="https://skillicons.dev/icons?i=pytorch" height="40"> PyTorch &nbsp; <img src="https://skillicons.dev/icons?i=sklearn" height="40"> Scikit-Learn &nbsp; <img src="https://skillicons.dev/icons?i=opencv" height="40"> OpenCV |
+| **Web Dev** | <img src="https://skillicons.dev/icons?i=html" height="40"> HTML &nbsp; <img src="https://skillicons.dev/icons?i=css" height="40"> CSS &nbsp; <img src="https://skillicons.dev/icons?i=js" height="40"> JavaScript &nbsp; <img src="https://skillicons.dev/icons?i=flask" height="40"> Flask &nbsp; <img src="https://skillicons.dev/icons?i=java" height="40"> Java |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql" height="40"> MySQL &nbsp; <img src="https://skillicons.dev/icons?i=firebase" height="40"> Firebase |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git" height="40"> Git &nbsp; <img src="https://skillicons.dev/icons?i=github" height="40"> GitHub &nbsp; <img src="https://skillicons.dev/icons?i=postman" height="40"> Postman &nbsp; <img src="https://skillicons.dev/icons?i=docker" height="40"> Docker &nbsp; <img src="https://skillicons.dev/icons?i=linux" height="40"> Linux &nbsp; <img src="https://skillicons.dev/icons?i=figma" height="40"> Figma |
 
 </div>
+
 
 ---
 
