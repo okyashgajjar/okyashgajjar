@@ -22,11 +22,12 @@ Here are some ideas to get you started:
 > 
 > - [x] [`portfolio`](https://okyashgajjar.vercel.app)
 > - [x] [`linkedin`](https://linkedin.com/in/okyashgajjar)
+> - *Thanks for your patience and continued support !*
 <!-- > - [x] [`GitHub`](https://github.com/okyashgajjar) -->
 <!-- > - [ ] [`esquie.app`](https://esquie.app) will allow the creation of metrics workflow to generate, render and publish infographics in a flexible way -->
 <!-- > I'm working actively on this currently (updated Dec 2025) -->
 > 
-> *Thanks for your patience and continued support !*
+<!-- > *Thanks for your patience and continued support !* -->
 
 
 <p align="center">
