@@ -1,14 +1,16 @@
-> Want to know what I'm currently working on ?\
-> Checkout [@okyashgajjar's repositories](https://github.com/okyashgajjar?tab=repositories)
+### Hi there 👋
 
-## My Custom Open Source Metrics
-Here is my completely custom generated tracker built from scratch!
+<!--
+**okyashgajjar/okyashgajjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[<img align="center" width="400" alt="My Custom Metrics" src="my-metrics.svg">](#)
+Here are some ideas to get you started:
 
-<br clear="both">
-<br>
-
-<p align="center">
-  <i>Want to see how this card is generated? Check out my <a href=".github/workflows/metrics.yml">custom GitHub Action</a> and the <a href="generate-metrics.js">Node.js generator script</a>!</i>
-</p>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
