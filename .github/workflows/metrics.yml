@@ -35,7 +35,7 @@ jobs:
           plugin_topics_sort: starred
           # plugin_stargazers: yes
           plugin_people: yes
-          plugin_discussions: yes
+          # plugin_discussions: yes
           # plugin_gists: yes
           # plugin_sponsors: yes
           # plugin_sponsorships: yes
