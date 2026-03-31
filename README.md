@@ -37,8 +37,6 @@ I spend a lot of time in **notebooks and scripts** prototyping with **NumPy**, *
 
 ## GitHub metrics
 
-_The card below is generated from this same repository: your narrative lives in `.github/metrics/portfolio.md`, and the SVG is refreshed on schedule so stats and story stay in one profile view._
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/okyashgajjar/okyashgajjar/main/github-metrics.svg" alt="GitHub metrics" width="100%">
 </p>
