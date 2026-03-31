@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Recent coding habits · math × ML
+<!-- ## Recent coding habits · math × ML
 
 Most of my recent work sits at the intersection of **mathematics and machine learning**: turning assumptions into code, then validating them with data. Day to day that tends to mean **linear algebra and multivariate calculus** when shaping loss surfaces and gradients; **probability and statistics** when reasoning about uncertainty, sampling, and evaluation metrics; and **numerical stability** when implementing optimizers or training loops so small changes in inputs do not explode in float32.
 
@@ -33,9 +33,9 @@ I spend a lot of time in **notebooks and scripts** prototyping with **NumPy**, *
 
 **MLOps & delivery** — **Docker**, **conda** / **venv**, **Git**, CI-friendly layouts, **FastAPI** or similar for serving prototypes, logging and config hygiene.
 
-**Operating systems** — daily driver and dev on **Linux** (e.g. Ubuntu / Arch and friends), **Windows** (including **WSL2** when Linux tooling is needed), and **macOS** when working on Apple hardware—comfortable adapting scripts and paths across all three.
+**Operating systems** — daily driver and dev on **Linux** (e.g. Ubuntu / Arch and friends), **Windows** (including **WSL2** when Linux tooling is needed), and **macOS** when working on Apple hardware—comfortable adapting scripts and paths across all three. -->
 
-## GitHub metrics
+<!-- ## GitHub metrics -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/okyashgajjar/okyashgajjar/main/github-metrics.svg" alt="GitHub metrics" width="100%">
