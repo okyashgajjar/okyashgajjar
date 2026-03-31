@@ -39,5 +39,5 @@ I spend a lot of time in **notebooks and scripts** prototyping with **NumPy**, *
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/okyashgajjar/okyashgajjar/main/github-metrics.svg" alt="GitHub metrics" width="100%">
-  <img src="https://raw.githubusercontent.com/okyashgajjar/okyashgajjar/main/github-metrics-interactive.svg" alt="GitHub Interactive metrics" width="100%">
+  <!-- <img src="https://raw.githubusercontent.com/okyashgajjar/okyashgajjar/main/github-metrics-interactive.svg" alt="GitHub Interactive metrics" width="100%"> -->
 </p>
