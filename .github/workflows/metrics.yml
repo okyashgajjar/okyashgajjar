@@ -12,24 +12,29 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: General metrics
+      - name: General metrics & Languages
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.general.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: okyashgajjar
           base: header, activity, community, repositories, metadata
+          plugin_languages: yes
 
-      - name: Languages
+      - name: 3D Commit Calendar & Habits
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.languages.svg
+          filename: metrics.activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: okyashgajjar
           base: ""
-          plugin_languages: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
 
-      - name: Achievements
+      - name: Achievements & Contributions
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.achievements.svg
@@ -38,12 +43,35 @@ jobs:
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
+          plugin_stargazers: yes
+          plugin_notable: yes
 
-      - name: Sponsors
+      - name: YouTube Music
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.sponsors.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: okyashgajjar
+          filename: metrics.music.svg
+          token: NOT_NEEDED
           base: ""
-          plugin_sponsors: yes
+          plugin_music: yes
+          plugin_music_mode: recent
+          plugin_music_provider: youtube
+          plugin_music_token: ${{ secrets.YOUTUBE_MUSIC_TOKENS }}
+
+      - name: Stack Overflow
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.stackoverflow.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_user: 1  # ⚠️ Replace '1' with your StackOverflow User ID
+          plugin_stackoverflow_sections: answers-top, questions-recent
+          plugin_stackoverflow_limit: 2
+
+      - name: GitHub Skyline
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.skyline.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_skyline: yes
