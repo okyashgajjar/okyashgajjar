@@ -15,29 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ## Recent coding habits · math × ML
+## 🙋‍♂️ WHO I AM
 
-Most of my recent work sits at the intersection of **mathematics and machine learning**: turning assumptions into code, then validating them with data. Day to day that tends to mean **linear algebra and multivariate calculus** when shaping loss surfaces and gradients; **probability and statistics** when reasoning about uncertainty, sampling, and evaluation metrics; and **numerical stability** when implementing optimizers or training loops so small changes in inputs do not explode in float32.
+Most of my work sits at the intersection of **mathematics and machine learning**: turning assumptions into code and validating them with data. I focus on **linear algebra**, **multivariate calculus**, and **numerical stability** to ensure gradients and optimizers match their mathematical derivations perfectly.
 
-I spend a lot of time in **notebooks and scripts** prototyping with **NumPy**, **pandas**, and **scikit-learn**, then moving the stable pieces into clearer modules when a model or pipeline is ready to grow. For deep learning I reach for **PyTorch** (or similar) when the graph, autodiff, or hardware story matters. Habit-wise I prefer **short, frequent commits** on feature branches, **reproducible runs** (seeds, configs, pinned deps where it counts), and **tests or sanity checks** on data transforms and metric code—because the math only “counts” if the implementation matches the derivation.
+I prefer **short, frequent commits** on feature branches and **reproducible runs** (pinned deps/configs) because the math only "counts" if the implementation matches the derivation.
 
-## Skills & tools
+## 🛠️ WHAT I DO
 
-**Machine learning & AI** — supervised / unsupervised learning, feature engineering, model evaluation, cross-validation, classical ML pipelines, **ensemble methods** (e.g. random forests, gradient boosting), **time series** basics, and **experiment tracking** where projects need it.
+- [x] **Machine learning & AI** — Supervised/unsupervised learning, ensembles, and experiment tracking.
+- [x] **Deep learning** — Efficient PyTorch workflows for **CNNs**, **Transformers**, and hardware-aware training.
+- [x] **LLMs & GenAI** — Prompting strategies, **RAG** (retrieval-augmented generation), and model evaluation.
+- [x] **MLOps & delivery** — Docker-based containerization, **FastAPI** prototyping, and CI-friendly layouts.
+- [x] **Systems & compute** — High-performance dev workflows across **Linux**, **Windows (WSL2)**, and **macOS**.
 
-**Deep learning** — feedforward and sequence models, **CNNs**, **RNNs / LSTMs**, **attention** and **Transformers**, transfer learning, fine-tuning, regularization, optimizers, mixed-precision and GPU-oriented workflows when applicable.
+---
 
-**LLMs & generative AI** — prompting strategies, **RAG** (retrieval-augmented generation), chunking and embedding workflows, chat / completion APIs, guardrails and evaluation of outputs.
-
-**Frameworks & libraries** — **Python** ecosystem: **PyTorch**, **TensorFlow / Keras**, **JAX** (when useful), **scikit-learn**, **XGBoost / LightGBM**, **NumPy**, **pandas**, **Polars**. NLP / LLM stack: **Hugging Face** (**Transformers**, **Datasets**, **Tokenizers**, **Accelerate**, **PEFT** / LoRA, **TRL**), **LangChain** (and related patterns: agents, tools, memory), **LlamaIndex** / data connectors when the project fits. Visualization: **Matplotlib**, **Seaborn**, **Plotly**. Optional extras: **ONNX**, **OpenVINO**, **sentence-transformers**, vector search with **FAISS**, **Chroma**, or hosted vector DBs.
-
-**MLOps & delivery** — **Docker**, **conda** / **venv**, **Git**, CI-friendly layouts, **FastAPI** or similar for serving prototypes, logging and config hygiene.
-
-**Operating systems** — daily driver and dev on **Linux** (e.g. Ubuntu / Arch and friends), **Windows** (including **WSL2** when Linux tooling is needed), and **macOS** when working on Apple hardware—comfortable adapting scripts and paths across all three. -->
-
-<!-- ## GitHub metrics -->
+## 📊 GitHub metrics
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/okyashgajjar/okyashgajjar/main/github-metrics.svg" alt="GitHub metrics" width="100%">
-  <!-- <img src="https://raw.githubusercontent.com/okyashgajjar/okyashgajjar/main/github-metrics-interactive.svg" alt="GitHub Interactive metrics" width="100%"> -->
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/okyashgajjar/okyashgajjar/main/github-metrics-interactive.svg" alt="GitHub Interactive metrics" width="100%">
 </p>
