@@ -13,20 +13,22 @@ jobs:
       contents: write
     steps:
       - name: General metrics & Languages
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.general.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: okyashgajjar
+          config_timezone: Asia/Kolkata
           base: header, activity, community, repositories, metadata
           plugin_languages: yes
 
       - name: 3D Commit Calendar & Habits
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: okyashgajjar
+          config_timezone: Asia/Kolkata
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
@@ -35,11 +37,12 @@ jobs:
           plugin_habits_charts: yes
 
       - name: Achievements & Contributions
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: okyashgajjar
+          config_timezone: Asia/Kolkata
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -47,7 +50,7 @@ jobs:
           plugin_notable: yes
 
       - name: YouTube Music
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.music.svg
           token: NOT_NEEDED
@@ -58,7 +61,7 @@ jobs:
           plugin_music_token: ${{ secrets.YOUTUBE_MUSIC_TOKENS }}
 
       - name: Stack Overflow
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.stackoverflow.svg
           token: NOT_NEEDED
@@ -69,7 +72,7 @@ jobs:
           plugin_stackoverflow_limit: 2
 
       - name: GitHub Skyline
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.skyline.svg
           token: NOT_NEEDED
