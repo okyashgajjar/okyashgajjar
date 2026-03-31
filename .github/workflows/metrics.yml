@@ -2,7 +2,11 @@ name: Metrics
 on:
   schedule: [{ cron: "0 0 * * *" }]
   workflow_dispatch:
-  push: { branches: ["main"] }
+  push:
+    branches: [main]
+    paths-ignore:
+      - github-metrics.svg
+      - README.md
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -10,6 +14,8 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v4
+
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -22,7 +28,7 @@ jobs:
           retries: 3
           retries_delay: 300
           base_indepth: yes
-          plugin_introduction: yes
+          plugin_introduction: no
           plugin_isocalendar: yes
           plugin_calendar: yes
           plugin_languages: yes
@@ -45,3 +51,30 @@ jobs:
           plugin_sponsorships: yes
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 32567804
+
+      - name: Assemble profile README
+        env:
+          REPO_FULL: ${{ github.repository }}
+        run: |
+          cp .github/metrics/portfolio.md README.md
+          {
+            echo ""
+            echo "## GitHub metrics"
+            echo ""
+            echo "_The card below is generated from this same repository: your narrative lives in \`.github/metrics/portfolio.md\`, and the SVG is refreshed on schedule so stats and story stay in one profile view._"
+            echo ""
+            echo '<p align="center">'
+            echo "  <img src=\"https://raw.githubusercontent.com/${REPO_FULL}/main/github-metrics.svg\" alt=\"GitHub metrics\" width=\"100%\">"
+            echo "</p>"
+          } >> README.md
+
+      - name: Commit README if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git add README.md
+          if ! git diff --staged --quiet; then
+            git commit -m "Assemble README from portfolio template"
+            git push
+          fi

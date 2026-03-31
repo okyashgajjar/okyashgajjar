@@ -1,3 +1,5 @@
+<!-- Edit this file to change profile copy. README.md is assembled by .github/workflows/metrics.yml. -->
+
 ### Hi there 👋
 
 <!--
@@ -34,11 +36,3 @@ I spend a lot of time in **notebooks and scripts** prototyping with **NumPy**, *
 **MLOps & delivery** — **Docker**, **conda** / **venv**, **Git**, CI-friendly layouts, **FastAPI** or similar for serving prototypes, logging and config hygiene.
 
 **Operating systems** — daily driver and dev on **Linux** (e.g. Ubuntu / Arch and friends), **Windows** (including **WSL2** when Linux tooling is needed), and **macOS** when working on Apple hardware—comfortable adapting scripts and paths across all three.
-
-## GitHub metrics
-
-_The card below is generated from this same repository: your narrative lives in `.github/metrics/portfolio.md`, and the SVG is refreshed on schedule so stats and story stay in one profile view._
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/okyashgajjar/okyashgajjar/main/github-metrics.svg" alt="GitHub metrics" width="100%">
-</p>
