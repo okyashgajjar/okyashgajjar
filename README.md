@@ -17,7 +17,6 @@ I'm an IT student focused on building end-to-end Machine Learning systems and mo
 - [**Unified ML Pipelines**](https://github.com/okyashgajjar/Unified-ML-Pipelines): Modular ML framework organizing 15+ algorithms by mathematical families.
 - [**ASPIRELY**](https://aspirely.vercel.app) ([GitHub](https://github.com/okyashgajjar/DE-Aspirely-Updated)): AI-Powered Virtual Career Advisor featuring voice-based mock interviews. 🏆 **1st Prize Winner at SAL College (out of 300+ teams)**.
 - [**Fake News Detection System**](https://github.com/okyashgajjar/Fake-Real-News-Detector): NLP classification system using Ridge Classifier and TF-IDF vectorization.
-- [**Breast Cancer Detection**](https://github.com/okyashgajjar/ML_model_projects): Binary classification neural network (96.49% accuracy) built with TensorFlow/Keras.
 - [**📝 Published Paper: When More Data Hurts**](https://rjpn.org/ijcspub/papers/IJCSP26B1097.pdf): Empirical study on noise sensitivity and performance saturation in ML models *(IJCSPUB | ISSN: 2250-1770)*.
 
 <details>
@@ -25,7 +24,9 @@ I'm an IT student focused on building end-to-end Machine Learning systems and mo
 <br>
 <img src="https://github-profile-trophy.vercel.app/?username=okyashgajjar&theme=onedark&no-frame=true&margin-w=15">
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=okyashgajjar&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=okyashgajjar&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF">
+<br><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=okyashgajjar&bg_color=transparent&color=58A6FF&line=58A6FF&point=C9D1D9&hide_border=true" width="100%">
 </details>
 
 <br>
