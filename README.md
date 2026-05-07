@@ -14,11 +14,11 @@ I'm an IT student focused on building end-to-end Machine Learning systems and mo
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 :star: Here are some projects that I've built:
-- **Unified ML Pipelines:** Modular ML framework organizing 15+ algorithms by mathematical families.
-- **ASPIRELY:** AI-Powered Virtual Career Advisor featuring voice-based mock interviews (LLMs via OpenRouter).
-- **Fake News Detection System:** NLP classification system using Ridge Classifier and TF-IDF vectorization.
-- **Breast Cancer Detection:** Binary classification neural network (96.49% accuracy) built with TensorFlow/Keras.
-- **When More Data Hurts:** Published empirical study on noise sensitivity and performance saturation in ML models.
+- [**Unified ML Pipelines**](https://github.com/okyashgajjar/Unified-ML-Pipelines): Modular ML framework organizing 15+ algorithms by mathematical families.
+- [**ASPIRELY**](https://aspirely.vercel.app) ([GitHub](https://github.com/okyashgajjar/Aspirely)): AI-Powered Virtual Career Advisor featuring voice-based mock interviews (LLMs via OpenRouter).
+- [**Fake News Detection System**](https://github.com/okyashgajjar/Fake-Real-News-Detector): NLP classification system using Ridge Classifier and TF-IDF vectorization.
+- [**Breast Cancer Detection**](https://github.com/okyashgajjar/ML_model_projects): Binary classification neural network (96.49% accuracy) built with TensorFlow/Keras.
+- [**📝 Published Paper: When More Data Hurts**](https://rjpn.org/ijcspub/papers/IJCSP26B1097.pdf): Empirical study on noise sensitivity and performance saturation in ML models *(IJCSPUB | ISSN: 2250-1770)*.
 
 <details>
 <summary>:trophy: Github Stats & Trophies</summary>
@@ -36,7 +36,7 @@ I'm an IT student focused on building end-to-end Machine Learning systems and mo
 * Pursuing B.E. in Information Technology at SAL College of Engineering (CGPA: 8.83)
 * Active Kaggle Contributor focusing on feature engineering and end-to-end data science workflows
 * Built ASPIRELY at the Tic Tech Toe 2025 Hackathon (DAIICT)
-* Published "When More Data Hurts" in the International Journal of Current Science (IJCSPUB)
+* Published [**"When More Data Hurts"**](https://rjpn.org/ijcspub/papers/IJCSP26B1097.pdf) in the International Journal of Current Science (IJCSPUB | ISSN: 2250-1770)
 * Certified in Machine Learning and Data Analysis with Python (FreeCodeCamp)
 
 </details>
