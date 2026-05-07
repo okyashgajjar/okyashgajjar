@@ -11,65 +11,58 @@ jobs:
       contents: write
     steps:
       - name: Core Metrics
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: okyashgajjar
           template: classic
           filename: github-metrics.svg
           config_timezone: Asia/Kolkata
           config_display: large
-          base: header, community, repositories, metadata
-          base_indepth: yes
-          retries: 3
+          config_output: svg
+          retries: 5
           retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
+          committer_message: "Update github-metrics.svg - [Skip GitHub Action]"
+
+          # Base
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
+
+          # Introduction
           plugin_introduction: yes
           plugin_introduction_title: yes
+
+          # Isometric calendar
           plugin_isocalendar: yes
+
+          # Languages
           plugin_languages: yes
           plugin_languages_limit: 8
-          plugin_stars: yes
-          plugin_topics: yes
-          plugin_topics_mode: labels
-          plugin_topics_limit: 20
-          plugin_topics_sort: starred
-          plugin_stargazers: yes
-          plugin_people: yes
-          plugin_discussions: yes
-          plugin_gists: yes
-          plugin_sponsors: yes
-          plugin_sponsorships: yes
-          plugin_stackoverflow: yes
-          plugin_stackoverflow_user: 32567804
 
-      - name: Interactive Metrics
-        uses: lowlighter/metrics@master
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: okyashgajjar
-          template: classic
-          filename: github-metrics-interactive.svg
-          config_timezone: Asia/Kolkata
-          config_display: large
-          base: ""
-          debug: yes
-          plugin_habits: yes
-          plugin_habits_from: 100
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_notable: yes
-          plugin_lines: yes
-          plugin_lines_sections: base, repositories, history
-          plugin_lines_history_limit: 1
+          # Stars
+          plugin_stars: yes
+          plugin_stars_limit: 4
+
+          # Starred topics
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 0
+          plugin_topics_sort: starred
+
+          # Stargazers
+          plugin_stargazers: yes
+          plugin_stargazers_charts_type: classic
+
+          # People
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_types: followers, following
+
+          # Discussions
+          plugin_discussions: yes
+
+          # Gists
+          plugin_gists: yes
