@@ -15,7 +15,7 @@ I'm an IT student focused on building end-to-end Machine Learning systems and mo
 
 :star: Here are some projects that I've built:
 - [**Unified ML Pipelines**](https://github.com/okyashgajjar/Unified-ML-Pipelines): Modular ML framework organizing 15+ algorithms by mathematical families.
-- [**ASPIRELY**](https://aspirely.vercel.app) ([GitHub](https://github.com/okyashgajjar/Aspirely)): AI-Powered Virtual Career Advisor featuring voice-based mock interviews (LLMs via OpenRouter).
+- [**ASPIRELY**](https://aspirely.vercel.app) ([GitHub](https://github.com/okyashgajjar/DE-Aspirely-Updated)): AI-Powered Virtual Career Advisor featuring voice-based mock interviews. 🏆 **1st Prize Winner at SAL College (out of 300+ teams)**.
 - [**Fake News Detection System**](https://github.com/okyashgajjar/Fake-Real-News-Detector): NLP classification system using Ridge Classifier and TF-IDF vectorization.
 - [**Breast Cancer Detection**](https://github.com/okyashgajjar/ML_model_projects): Binary classification neural network (96.49% accuracy) built with TensorFlow/Keras.
 - [**📝 Published Paper: When More Data Hurts**](https://rjpn.org/ijcspub/papers/IJCSP26B1097.pdf): Empirical study on noise sensitivity and performance saturation in ML models *(IJCSPUB | ISSN: 2250-1770)*.
@@ -35,7 +35,7 @@ I'm an IT student focused on building end-to-end Machine Learning systems and mo
 
 * Pursuing B.E. in Information Technology at SAL College of Engineering (CGPA: 8.83)
 * Active Kaggle Contributor focusing on feature engineering and end-to-end data science workflows
-* Built ASPIRELY at the Tic Tech Toe 2025 Hackathon (DAIICT)
+* Built ASPIRELY proof-of-concept at the Tic Tech Toe 2025 Hackathon, and later carried it forward to win **🏆 1st Prize** at SAL College's Project & Poster Presentation (among 300+ teams)
 * Published [**"When More Data Hurts"**](https://rjpn.org/ijcspub/papers/IJCSP26B1097.pdf) in the International Journal of Current Science (IJCSPUB | ISSN: 2250-1770)
 * Certified in Machine Learning and Data Analysis with Python (FreeCodeCamp)
 
