@@ -1,41 +1,51 @@
-![image](https://github.com/user-attachments/assets/07d03464-4d2c-434e-ad9a-c66772b8d2ce)    
+<div align="center">
+  <h1>Hi there, I'm Yash Gajjar 👋</h1>
+  <h3>Data Scientist & Machine Learning Engineer</h3>
+  
+  <p>
+    Building intelligent systems that learn, adapt, and create meaningful impact.
+  </p>
 
-### About me:
-
-<table>
-<tr>
-<td style="width: 60%; vertical-align: top;">
-<div class="gradient-text">
-<p>Hi, I'm Yash Gajjar — passionate about Data Science, Artificial Intelligence, and Machine Learning.</p>
-<p>I enjoy exploring how machines can learn from data and make intelligent decisions. My main interest is building AI-powered applications that solve real-world problems and improve everyday life. I like experimenting with different ML models, working with data, and turning ideas into practical solutions.</p>
-<p>Currently, I am learning and developing projects in Machine Learning, Data Science, and Generative AI while strengthening my skills in Python and AI technologies.</p>
-<p>My goal is to build intelligent systems that create meaningful impact.</p>
-<p>⚡ Always curious about data, algorithms, and the future of AI.</p>
+  <p>
+    <a href="https://linkedin.com/in/okyashgajjar" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/okyashgajjar" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://okyashgajjar.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
 </div>
-</td>
-<td style="width: 40%; text-align: center;">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Coding Cat GIF"/>
-</td>
-</tr>
-</table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/okyashgajjar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://github.com/okyashgajjar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-<a href="https://okyashgajjar.vercel.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="Portfolio" height="30" width="40" /></a>
-</p>
+---
 
-### 💻 Languages & Tools I Know
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-</p>
+### 👨‍💻 A Little About Me
+
+I am a tech enthusiast fascinated by the power of data. I love diving into complex datasets to uncover hidden patterns and training models that can predict, classify, and generate insights. My journey involves everything from cleaning raw data to deploying scalable ML architectures.
+
+- 🔬 **Focus Areas:** Deep Learning, Generative AI, Data Analytics, and Computer Vision.
+- 🚀 **Currently Building:** End-to-end Machine Learning pipelines and AI-driven applications.
+- 💡 **Philosophy:** Data is just noise until you ask the right questions.
+- 🎯 **Goal:** To engineer AI solutions that are not just accurate, but interpretable and beneficial to society.
+- ⚡ **Fun Fact:** When I'm not training models, I'm probably tweaking my Linux dotfiles or exploring the latest tech trends!
+
+---
+
+### ⚙️ My Arsenal
+
+| **Languages** | **Data & ML** | **Tools & OS** |
+|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/><br>Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/><br>TensorFlow | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/><br>Linux |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/><br>JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/><br>PyTorch | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/><br>Git |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/><br>HTML/CSS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/><br>Pandas | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/><br>Docker |
+
+---
+
+<div align="center">
+  <h3>📈 GitHub Activity</h3>
+  <!-- These use standard Vercel APIs, NO GitHub Actions required! -->
+  <img src="https://github-readme-stats.vercel.app/api?username=okyashgajjar&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Yash's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okyashgajjar&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Yash's GitHub Streak" />
+</div>
