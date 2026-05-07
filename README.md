@@ -2,22 +2,23 @@
 
 I'm Yash Gajjar ! :sunglasses:
 
-I'd like to do projects related to Data Science, AI, and Machine Learning. :robot:
+I'm an IT student focused on building end-to-end Machine Learning systems and modular ML pipelines. :robot:
 
-:page_with_curl: I'm currently learning & using:
+:page_with_curl: I'm currently using & learning:
 <br><br>
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-:star: Here are some areas that I'm working on:
-- Deep Learning & Neural Networks
-- Generative AI
-- Computer Vision
-- End-to-end ML Pipelines
-- Data Analytics
+:star: Here are some projects that I've built:
+- **Unified ML Pipelines:** Modular ML framework organizing 15+ algorithms by mathematical families.
+- **ASPIRELY:** AI-Powered Virtual Career Advisor featuring voice-based mock interviews (LLMs via OpenRouter).
+- **Fake News Detection System:** NLP classification system using Ridge Classifier and TF-IDF vectorization.
+- **Breast Cancer Detection:** Binary classification neural network (96.49% accuracy) built with TensorFlow/Keras.
+- **When More Data Hurts:** Published empirical study on noise sensitivity and performance saturation in ML models.
 
 <details>
 <summary>:trophy: Github Stats & Trophies</summary>
@@ -30,14 +31,13 @@ I'd like to do projects related to Data Science, AI, and Machine Learning. :robo
 <br>
 
 <details>
-<summary>:bar_chart: Recent Activity</summary>
+<summary>:bar_chart: Education & Recent Activity</summary>
 
-<!-- activity starts -->
-* Exploring how machines can learn from data and make intelligent decisions
-* Building AI-powered applications that solve real-world problems
-* Experimenting with different ML models and working with data
-* Strengthening my skills in Python and AI technologies
-<!-- activity ends -->
+* Pursuing B.E. in Information Technology at SAL College of Engineering (CGPA: 8.83)
+* Active Kaggle Contributor focusing on feature engineering and end-to-end data science workflows
+* Built ASPIRELY at the Tic Tech Toe 2025 Hackathon (DAIICT)
+* Published "When More Data Hurts" in the International Journal of Current Science (IJCSPUB)
+* Certified in Machine Learning and Data Analysis with Python (FreeCodeCamp)
 
 </details>
 
