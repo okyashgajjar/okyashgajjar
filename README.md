@@ -4,7 +4,7 @@ I'm Yash Gajjar ! :sunglasses:
 
 I'm an IT student focused on building end-to-end Machine Learning systems and modular ML pipelines. :robot:
 
-:page_with_curl: I'm currently using & learning:
+:page_with_curl: Skills I use:
 <br><br>
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -12,6 +12,12 @@ I'm an IT student focused on building end-to-end Machine Learning systems and mo
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![GenAI](https://img.shields.io/badge/GenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+:seedling: Currently Learning:
+<br><br>
+![LLM](https://img.shields.io/badge/Large_Language_Models-8A2BE2?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 :star: Here are some projects that I've built:
 - [**Unified ML Pipelines**](https://github.com/okyashgajjar/Unified-ML-Pipelines): Modular ML framework organizing 15+ algorithms by mathematical families.
