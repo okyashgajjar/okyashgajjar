@@ -54,5 +54,5 @@ I'm an IT student focused on building end-to-end Machine Learning systems and mo
 <br><br>
 
 
-<!-- Feel free to contact me or support my work :yum: --!>
-<a href="https://ko-fi.com/okyashgajjar" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"></a>
+<!-- Feel free to contact me or support my work :yum: 
+<a href="https://ko-fi.com/okyashgajjar" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"></a> --!>
