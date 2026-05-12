@@ -47,11 +47,12 @@ I'm an IT student focused on building end-to-end Machine Learning systems and mo
 * Certified in Machine Learning and Data Analysis with Python (FreeCodeCamp)
 
 </details>
-
-Feel free to contact me or support my work :yum:
 <br><br>
 <a href="https://linkedin.com/in/okyashgajjar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-okyashgajjar-informational"></a>
 <a href="https://github.com/okyashgajjar" target="_blank"><img src="https://img.shields.io/badge/GitHub-okyashgajjar-black"></a>
 <a href="https://okyashgajjar.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-Portfolio-red"></a>
 <br><br>
+
+
+<!-- Feel free to contact me or support my work :yum: --!>
 <a href="https://ko-fi.com/okyashgajjar" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"></a>
