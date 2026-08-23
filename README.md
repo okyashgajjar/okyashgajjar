@@ -18,9 +18,9 @@
 
 ---
 
-### Hi, I'm Yash Gajjar — AI/ML Engineer (E2E) :robot:
+### Hi, I'm Yash Gajjar — AI/ML Engineer :robot:
 
-B.E. Information Technology @ SAL College of Engineering (CGPA: 8.83) — Ahmedabad, IN.  
+B.E. Information Technology @ SAL College of Engineering (CGPA: 8.93) — Ahmedabad, IN.  
 Focused on **end-to-end AI & ML systems**: from data → pipelines → models → deployment.  
 Open for AI-ML discussion · [Portfolio](https://okyashgajjar.vercel.app) · [LinkedIn](https://linkedin.com/in/okyashgajjar) · [Kaggle](https://kaggle.com/okyashgajjar) · [Hugging Face](https://huggingface.co/okyashgajjar) · [Instagram](https://instagram.com/okyashgajjar)
 
@@ -47,6 +47,8 @@ Open for AI-ML discussion · [Portfolio](https://okyashgajjar.vercel.app) · [Li
 
 **GenAI Stack:** **LangChain**, **LangGraph**, **n8n** — **CivicLensAI** :trophy: **1st Prize @ HackTheSpark 2026** (agentic civic image → dept routing with severity/confidence), innocheck-enterprise (multi-agent innovation validation), ScreenSage-AI (Chrome side-panel), open_deep_research_engine_v1.
 
+**End-to-End MLOps & Agent Tooling:** **[costwise-mcp](https://github.com/okyashgajjar/costwise-mcp)** — local MCP server for coding agents (repo intelligence, cache-write optimization, session memory) · **21★, 4 forks, Go** — powers the repo-aware pipeline behind the E2E ML workflow (from data prep → modular pipelines → evaluation → deployment).
+
 **Core Languages & Frameworks:** ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![GenAI](https://img.shields.io/badge/GenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 **Also comfortable with:** Go, TypeScript, Shell, SQL, Dart, Java, HTML/CSS, Kaggle workflows, FreeCodeCamp ML & Data Analysis certs.
@@ -61,7 +63,7 @@ yg@arch
 OS: Arch Linux x86_64
 Host: 81WQ (IdeaPad 3 15IGL05)
 Kernel: Linux 7.1.9-arch1-2
-Uptime: 8 hours, 35 mins (profile Uptime = age: 22 years, 0 months, 4 days)
+Uptime: 8 hours, 35 mins (profile Uptime = age: 20 years, 10 months, 16 days)
 Packages: 1655 (pacman), 6 (flatpak)
 Shell: bash 5.3.15
 WM: niri 26.04 (Wayland)
@@ -71,11 +73,10 @@ CPU: Intel Celeron N4020 (2) @ 2.80 GHz
 GPU: Intel UHD Graphics 600 @ 0.65 GHz [Integrated]
 Memory: 7.31 GiB (3.17 GiB used / 43%)
 Disk (/): 166.12 GiB ext4 (71.97 GiB used / 43%)
-Local IP (wlan0): 192.168.31.21/24 | Battery: 54% Discharging | Locale: en_IN.UTF-8
 hyfetch preset: aroace3 | mode: rgb | backend: fastfetch | lightness: 0.81
 ```
 
-> **What this machine makes:** low-spec dotfiles (≈230 MB idle) — [Low-Spec-Niri-Dotfiles](https://github.com/okyashgajjar/Low-Spec-Niri-Dotfiles) (6★, Shell, matugen Material You) & [low-sepecs-hyprland-dotfiles](https://github.com/okyashgajjar/low-sepecs-hyprland-dotfiles) (13★, CSS, <300 MB boot, niri/waybar/matugen) + [feather-niri](https://github.com/okyashgajjar/feather-niri) (Shell). Tested on IdeaPad 3 15IGL05.
+> **Hobby — Community Contributions & OpenSource:** Hyprland/Niri low-spec dotfiles (≈230 MB idle) — [Low-Spec-Niri-Dotfiles](https://github.com/okyashgajjar/Low-Spec-Niri-Dotfiles) (6★, Shell, matugen Material You) & [low-sepecs-hyprland-dotfiles](https://github.com/okyashgajjar/low-sepecs-hyprland-dotfiles) (13★, CSS, <300 MB boot, niri/waybar/matugen) + [feather-niri](https://github.com/okyashgajjar/feather-niri) (Shell) — open-source hobby builds. Tested on IdeaPad 3 15IGL05.
 
 ---
 
@@ -94,23 +95,9 @@ Stats: **42 public repos · 45 stars · 17 followers · 17 following** — [gith
 
 ---
 
-#### :trophy: GitHub Stats & Trophies (also in card)
-
-<details>
-<summary>Expand — streak, activity, trophies</summary>
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=okyashgajjar&theme=onedark&no-frame=true&margin-w=15">
-<br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=okyashgajjar&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF">
-<br><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=okyashgajjar&bg_color=transparent&color=58A6FF&line=58A6FF&point=C9D1D9&hide_border=true" width="100%">
-</details>
-
----
-
 #### :bar_chart: Education & Recent Activity
 
-- Pursuing B.E. IT @ SAL College of Engineering — **CGPA 8.83**
+- Pursuing B.E. IT @ SAL College of Engineering — **CGPA 8.93**
 - Kaggle Contributor (feature engineering, E2E workflows)
 - :trophy: **1st Prize — HackTheSpark 2026** for **CivicLensAI** (agentic civic AI)
 - 1st Prize — SAL Project & Poster (300+ teams) for ASPIRELY, from Tic Tech Toe 2025 hackathon POC
