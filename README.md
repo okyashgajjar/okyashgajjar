@@ -18,44 +18,48 @@
 
 ---
 
-### Hi, I'm Yash Gajjar — AI/ML Engineer :robot:
+### Hi, I'm Yash Gajjar - AI/ML Engineer
 
-B.E. Information Technology @ SAL College of Engineering (CGPA: 8.93) — Ahmedabad, IN.  
-Focused on **end-to-end AI & ML systems**: from data → pipelines → models → deployment.  
-Open for AI-ML discussion · [Portfolio](https://okyashgajjar.vercel.app) · [LinkedIn](https://linkedin.com/in/okyashgajjar) · [Kaggle](https://kaggle.com/okyashgajjar) · [Hugging Face](https://huggingface.co/okyashgajjar) · [Instagram](https://instagram.com/okyashgajjar)
+I am an IT student at SAL College of Engineering (CGPA: 8.93) based in Ahmedabad. I enjoy building end-to-end AI and ML systems that go from idea and data to a real working product. If you want to talk about AI, ML or GenAI, my DMs are open.
 
-> **What I do:** I build modular ML pipelines, fine-tune LLMs (LoRA/QLoRA/Unsloth), and ship GenAI agents (LangChain/LangGraph/n8n).  
-> **What I make:** AI career advisors, civic AI agents, medical chatbots, low-spec Linux dotfiles, and MCP tooling for coding agents.
+Portfolio: [okyashgajjar.vercel.app](https://okyashgajjar.vercel.app) | LinkedIn: [linkedin.com/in/okyashgajjar](https://linkedin.com/in/okyashgajjar) | Kaggle: [kaggle.com/okyashgajjar](https://kaggle.com/okyashgajjar) | Hugging Face: [huggingface.co/okyashgajjar](https://huggingface.co/okyashgajjar)
 
----
+> What I do: I build modular ML pipelines, fine-tune LLMs with LoRA, QLoRA and Unsloth, and ship GenAI agents with LangChain, LangGraph and n8n.
+> What I make: AI career advisors, civic AI agents, medical chatbots, low-spec Linux dotfiles, and tooling for coding agents.
 
-#### :page_with_curl: End-to-End AI & ML — Practical + Theory
-
-**Supervised (practical):** Regression, Classification, Ensembles — 15+ algorithms organized by mathematical families in [Unified-ML-Pipelines](https://github.com/okyashgajjar/Unified-ML-Pipelines) (parallel execution, optimized preprocessing, multi-metric eval).
-
-**Unsupervised (practical):** Clustering, Dimensionality Reduction — e.g. [bbc-topic-discovery](https://github.com/okyashgajjar/bbc-topic-discovery) (Word2Vec + K-Means on BBC News).
-
-**Reinforcement Learning (theory):** MDPs, policy/value iteration — applied conceptually in [EvoPolis](https://github.com/okyashgajjar/EvoPolis---AI-driven-Society-Simulation) (AI-driven society simulation).
-
-**Transfer Learning (practical):** ResNet50V2 for [pneumonia-detection](https://github.com/okyashgajjar/pneumonia-detection-resnet50v2), pretrained transformers for NLP.
-
-**NLP & Transformers:** TF-IDF + Ridge (99% acc) in [Fake-Real-News-Detector](https://github.com/okyashgajjar/Fake-Real-News-Detector) / [fake-real-news-classifier](https://github.com/okyashgajjar/fake-real-news-classifier) (FastAPI + React), topic discovery, document embeddings.
-
-**AI Fundamentals:** Probability, optimization, evaluation, feature engineering — Kaggle active, published [When More Data Hurts](https://rjpn.org/ijcspub/papers/IJCSP26B1097.pdf) (IJCSPUB, ISSN 2250-1770) on noise & scaling limits.
-
-**Fine-tuning:** [Unsloth](https://github.com/unslothai/unsloth) + **LoRA / QLoRA** — [huggingface.co/okyashgajjar](https://huggingface.co/okyashgajjar) → `gemma-4-medical-full` (5B, Image-Text-to-Text), `gemma-medical-lora`, dataset `doctor-patient-conversation-v1` (1.59k, 20), Space: [Gemma 4 Medical Chatbot](https://huggingface.co/spaces/okyashgajjar/gemma-4-medical-chatbot) (paused, doctor-patient conv).
-
-**GenAI Stack:** **LangChain**, **LangGraph**, **n8n** — **CivicLensAI** :trophy: **1st Prize @ HackTheSpark 2026** (agentic civic image → dept routing with severity/confidence), innocheck-enterprise (multi-agent innovation validation), ScreenSage-AI (Chrome side-panel), open_deep_research_engine_v1.
-
-**End-to-End MLOps & Agent Tooling:** **[costwise-mcp](https://github.com/okyashgajjar/costwise-mcp)** — local MCP server for coding agents (repo intelligence, cache-write optimization, session memory) · **21★, 4 forks, Go** — powers the repo-aware pipeline behind the E2E ML workflow (from data prep → modular pipelines → evaluation → deployment).
-
-**Core Languages & Frameworks:** ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![GenAI](https://img.shields.io/badge/GenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
-
-**Also comfortable with:** Go, TypeScript, Shell, SQL, Dart, Java, HTML/CSS, Kaggle workflows, FreeCodeCamp ML & Data Analysis certs.
+This profile card above updates automatically. GitHub Actions refreshes it twice a day and on every push, so the stats, LOC and Uptime stay current without manual edits.
 
 ---
 
-#### :computer: System — hyfetch / fastfetch (arch_small)
+#### End-to-End AI and ML - Practical and Theory
+
+I work across the full ML lifecycle, not just one part of it:
+
+**Supervised learning (practical):** Regression, classification and ensembles. I have organized 15+ algorithms by their math families in [Unified-ML-Pipelines](https://github.com/okyashgajjar/Unified-ML-Pipelines) with parallel execution and multi-metric evaluation.
+
+**Unsupervised learning (practical):** Clustering and dimensionality reduction. Example is [bbc-topic-discovery](https://github.com/okyashgajjar/bbc-topic-discovery) using Word2Vec and K-Means on the BBC News dataset.
+
+**Reinforcement learning (theory):** I have studied MDPs, policy and value iteration and explored them conceptually in [EvoPolis](https://github.com/okyashgajjar/EvoPolis---AI-driven-Society-Simulation), a simulation of an AI-driven society.
+
+**Transfer learning (practical):** Using pretrained models for new tasks, like ResNet50V2 for [pneumonia detection](https://github.com/okyashgajjar/pneumonia-detection-resnet50v2) and transformers for NLP.
+
+**NLP and Transformers:** I built a fake news detector with TF-IDF and Ridge classifier that reaches 99 percent accuracy in [Fake-Real-News-Detector](https://github.com/okyashgajjar/Fake-Real-News-Detector) and the full-stack [fake-real-news-classifier](https://github.com/okyashgajjar/fake-real-news-classifier) with FastAPI and React.
+
+**AI Fundamentals:** Probability, optimization, evaluation and feature engineering. I am active on Kaggle and I published [When More Data Hurts](https://rjpn.org/ijcspub/papers/IJCSP26B1097.pdf) (IJCSPUB, ISSN 2250-1770) about noise and scaling limits in ML.
+
+**Fine-tuning:** I use [Unsloth](https://github.com/unslothai/unsloth) with LoRA and QLoRA. On [huggingface.co/okyashgajjar](https://huggingface.co/okyashgajjar) you can find `gemma-4-medical-full` (5B, Image-Text-to-Text), `gemma-medical-lora`, the dataset `doctor-patient-conversation-v1` (1.59k rows) and the Space [Gemma 4 Medical Chatbot](https://huggingface.co/spaces/okyashgajjar/gemma-4-medical-chatbot).
+
+**GenAI Stack:** LangChain, LangGraph and n8n. My main project here is **CivicLensAI**, 1st Prize at HackTheSpark 2026, an agentic civic system where you upload an image and the agent detects the issue and routes it to the right department with severity and confidence. Other work includes innocheck-enterprise, ScreenSage-AI and open_deep_research_engine_v1.
+
+**End-to-End MLOps and Agent Tooling:** [costwise-mcp](https://github.com/okyashgajjar/costwise-mcp) - a local MCP server for coding agents that adds repo intelligence, cache-write optimization and session memory. It has 21 stars and 4 forks in Go, and it powers the repo-aware pipeline behind my end-to-end workflow from data prep to evaluation to deployment.
+
+**Core Languages and Frameworks:** ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![GenAI](https://img.shields.io/badge/GenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+**Also comfortable with:** AI full stack development
+
+---
+
+#### System - hyfetch / fastfetch (arch_small)
 
 ```hyfetch
 yg@arch
@@ -76,34 +80,34 @@ Disk (/): 166.12 GiB ext4 (71.97 GiB used / 43%)
 hyfetch preset: aroace3 | mode: rgb | backend: fastfetch | lightness: 0.81
 ```
 
-> **Hobby — Community Contributions & OpenSource:** Hyprland/Niri low-spec dotfiles (≈230 MB idle) — [Low-Spec-Niri-Dotfiles](https://github.com/okyashgajjar/Low-Spec-Niri-Dotfiles) (6★, Shell, matugen Material You) & [low-sepecs-hyprland-dotfiles](https://github.com/okyashgajjar/low-sepecs-hyprland-dotfiles) (13★, CSS, <300 MB boot, niri/waybar/matugen) + [feather-niri](https://github.com/okyashgajjar/feather-niri) (Shell) — open-source hobby builds. Tested on IdeaPad 3 15IGL05.
+> Hobby - Community Contributions and OpenSource: Hyprland/Niri low-spec dotfiles (around 230 MB idle) - [Low-Spec-Niri-Dotfiles](https://github.com/okyashgajjar/Low-Spec-Niri-Dotfiles) (6 stars, Shell, matugen Material You) and [low-sepecs-hyprland-dotfiles](https://github.com/okyashgajjar/low-sepecs-hyprland-dotfiles) (13 stars, CSS, boots under 300 MB with niri/waybar/matugen) plus [feather-niri](https://github.com/okyashgajjar/feather-niri) (Shell) - open-source hobby builds. Tested on IdeaPad 3 15IGL05.
 
 ---
 
-#### :star: Selected Work — what we build
+#### Selected Work - what I build
 
-- **[Unified-ML-Pipelines](https://github.com/okyashgajjar/Unified-ML-Pipelines)** — math-driven, family-based ML pipelines (15+ algos, parallel, multi-metric).
-- **[ASPIRELY](https://aspirely.vercel.app) — [DE-Aspirely-Updated](https://github.com/okyashgajjar/DE-Aspirely-Updated)** — AI career advisor, voice mock interviews · :trophy: **1st Prize @ SAL (300+ teams)**, Tic Tech Toe 2025 POC.
-- **[CivicLensAI](https://github.com/okyashgajjar/CivicLensAI)** — :trophy: **1st Prize @ HackTheSpark 2026** — agentic civic: upload image → auto-detect issue → LLM reasons dept/severity/confidence. Jupyter Notebook.
-- **[costwise-mcp](https://github.com/okyashgajjar/costwise-mcp)** — local MCP server for coding agents (repo intelligence, cache-write optimization, session memory) · **21★, 4 forks, Go** (most starred).
-- **[Medical Fine-tunes @ HF](https://huggingface.co/okyashgajjar)** — `gemma-4-medical-full` + `gemma-medical-lora` + `doctor-patient-conversation-v1` → [Medical Chatbot Space](https://huggingface.co/spaces/okyashgajjar/gemma-4-medical-chatbot).
-- **[Fake News Detection](https://github.com/okyashgajjar/Fake-Real-News-Detector)** — Ridge + TF-IDF, 99% acc; full stack variant [fake-real-news-classifier](https://github.com/okyashgajjar/fake-real-news-classifier) (React/Vite + FastAPI).
-- **[When-More-Data-Hurts](https://github.com/okyashgajjar/When-More-Data-Hurts)** — code for published paper [PDF](https://rjpn.org/ijcspub/papers/IJCSP26B1097.pdf) on label/feature noise & scaling.
-- **More:** [bbc-topic-discovery](https://github.com/okyashgajjar/bbc-topic-discovery) (NLP), [pneumonia-detection-resnet50v2](https://github.com/okyashgajjar/pneumonia-detection-resnet50v2), [telecom-churn](https://github.com/okyashgajjar/telecom-customer-churn-prediction) (80% Logistic Regression), [Medicine-Recommandation](https://github.com/okyashgajjar/Medicine-Recommandation-System), [EvoPolis](https://github.com/okyashgajjar/EvoPolis---AI-driven-Society-Simulation), [ScreenSage-AI](https://github.com/okyashgajjar/ScreenSage-AI), [AI-dev-assistant](https://github.com/okyashgajjar/AI-dev-assistant).
+- **[Unified-ML-Pipelines](https://github.com/okyashgajjar/Unified-ML-Pipelines)** - math-driven, family-based ML pipelines with 15+ algorithms and parallel, multi-metric evaluation.
+- **[ASPIRELY](https://aspirely.vercel.app) - [DE-Aspirely-Updated](https://github.com/okyashgajjar/DE-Aspirely-Updated)** - AI career advisor with voice mock interviews, 1st Prize at SAL College among 300+ teams, started as Tic Tech Toe 2025 proof of concept.
+- **[CivicLensAI](https://github.com/okyashgajjar/CivicLensAI)** - 1st Prize at HackTheSpark 2026, agentic civic system where you upload an image and the LLM detects the issue and decides department, severity and confidence. Jupyter Notebook.
+- **[costwise-mcp](https://github.com/okyashgajjar/costwise-mcp)** - local MCP server for coding agents with repo intelligence and cache optimization, 21 stars, 4 forks, Go, my most starred project.
+- **[Medical Fine-tunes at HF](https://huggingface.co/okyashgajjar)** - `gemma-4-medical-full` and `gemma-medical-lora` plus `doctor-patient-conversation-v1` - see the [Medical Chatbot Space](https://huggingface.co/spaces/okyashgajjar/gemma-4-medical-chatbot).
+- **[Fake News Detection](https://github.com/okyashgajjar/Fake-Real-News-Detector)** - Ridge and TF-IDF with 99 percent accuracy, full-stack version is [fake-real-news-classifier](https://github.com/okyashgajjar/fake-real-news-classifier) with React and FastAPI.
+- **[When-More-Data-Hurts](https://github.com/okyashgajjar/When-More-Data-Hurts)** - code for my published paper [PDF](https://rjpn.org/ijcspub/papers/IJCSP26B1097.pdf) on label and feature noise and scaling.
+- **More:** [bbc-topic-discovery](https://github.com/okyashgajjar/bbc-topic-discovery) (NLP), [pneumonia-detection-resnet50v2](https://github.com/okyashgajjar/pneumonia-detection-resnet50v2), [telecom-churn](https://github.com/okyashgajjar/telecom-customer-churn-prediction) (80 percent Logistic Regression), [Medicine-Recommandation](https://github.com/okyashgajjar/Medicine-Recommandation-System), [EvoPolis](https://github.com/okyashgajjar/EvoPolis---AI-driven-Society-Simulation), [ScreenSage-AI](https://github.com/okyashgajjar/ScreenSage-AI), [AI-dev-assistant](https://github.com/okyashgajjar/AI-dev-assistant).
 
-Stats: **42 public repos · 45 stars · 17 followers · 17 following** — [github.com/okyashgajjar](https://github.com/okyashgajjar) (since 2022-02-28).
+Stats: **42 public repos, 45 stars, 17 followers, 17 following** - [github.com/okyashgajjar](https://github.com/okyashgajjar) (since 2022-02-28). The card at the top is refreshed automatically by GitHub Actions.
 
 ---
 
-#### :bar_chart: Education & Recent Activity
+#### Education and Recent Activity
 
-- Pursuing B.E. IT @ SAL College of Engineering — **CGPA 8.93**
-- Kaggle Contributor (feature engineering, E2E workflows)
-- :trophy: **1st Prize — HackTheSpark 2026** for **CivicLensAI** (agentic civic AI)
-- 1st Prize — SAL Project & Poster (300+ teams) for ASPIRELY, from Tic Tech Toe 2025 hackathon POC
-- Published — **"When More Data Hurts"** (IJCSPUB, ISSN 2250-1770) — [PDF](https://rjpn.org/ijcspub/papers/IJCSP26B1097.pdf)
-- Certified — Machine Learning & Data Analysis with Python (FreeCodeCamp)
-- Hugging Face — 2 models, 1 dataset, 1 Space (Gemma medical, 1.59k rows)
+- Pursuing B.E. in IT at SAL College of Engineering - **CGPA 8.93**
+- Active Kaggle contributor, focused on feature engineering and end-to-end workflows
+- 1st Prize at HackTheSpark 2026 for **CivicLensAI** (agentic civic AI)
+- 1st Prize at SAL Project and Poster Presentation among 300+ teams for ASPIRELY, built from Tic Tech Toe 2025 hackathon
+- Published **When More Data Hurts** (IJCSPUB, ISSN 2250-1770) - [PDF](https://rjpn.org/ijcspub/papers/IJCSP26B1097.pdf)
+- Certified in Machine Learning and Data Analysis with Python (FreeCodeCamp)
+- Hugging Face - 2 models, 1 dataset, 1 Space (Gemma medical, 1.59k rows)
 
 ---
 
@@ -117,6 +121,7 @@ Stats: **42 public repos · 45 stars · 17 followers · 17 following** — [gith
 
 <!--
 Original source: Vikbg (https://github.com/Vikbg/Vikbg)
-Licensed under Apache-2.0 — see LICENSE & NOTICE
-Profile card generated by today.py + generate_readme.py (GraphQL, cache in cache/*.txt)
+Licensed under Apache-2.0 - see LICENSE and NOTICE
+Profile card generated by today.py and generate_readme.py (GraphQL, cache in cache/*.txt)
+Automatically updated twice a day via GitHub Actions
 -->
