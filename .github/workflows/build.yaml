@@ -1,0 +1,53 @@
+name: README build
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+      - name: Get Python 3.12
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+          cache-dependency-path: 'cache/requirements.txt'
+      - name: Install dependencies
+        run: python -m pip install -r cache/requirements.txt
+      - name: Run tests
+        run: python -m unittest discover -s tests -v
+      - name: Require private stats token
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        run: |-
+          if [ -z "$ACCESS_TOKEN" ]; then
+            echo "::error::ACCESS_TOKEN is required for complete private statistics."
+            exit 1
+          fi
+      - name: Update README file
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          USER_NAME: ${{ secrets.USER_NAME || github.repository_owner }}
+        run: python generate_readme.py
+      - name: Commit generated profile outputs
+        env:
+          USER_NAME: ${{ secrets.USER_NAME || github.repository_owner }}
+        run: |-
+          CACHE_FILE="$(python -c 'import hashlib, os; user = os.environ["USER_NAME"]; print(f"cache/{hashlib.sha256(user.encode("utf-8")).hexdigest()}.txt")')"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add -- dark_mode.svg light_mode.svg "$CACHE_FILE"
+          git diff --cached --quiet && { echo "No changes to commit"; exit 0; }
+          git diff --cached
+          git commit -m "chore: update profile stats"
+          git push

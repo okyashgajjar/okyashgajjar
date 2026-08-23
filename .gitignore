@@ -1,1 +1,7 @@
-stitch_minimalist_github_profile_readme/
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+.codex
