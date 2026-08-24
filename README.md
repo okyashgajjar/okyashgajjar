@@ -27,8 +27,6 @@ Portfolio: [okyashgajjar.vercel.app](https://okyashgajjar.vercel.app) | LinkedIn
 > What I do: I build modular ML pipelines, fine-tune LLMs with LoRA, QLoRA and Unsloth, and ship GenAI agents with LangChain, LangGraph and n8n.
 > What I make: AI career advisors, civic AI agents, medical chatbots, low-spec Linux dotfiles, and tooling for coding agents.
 
-This profile card above updates automatically. GitHub Actions refreshes it twice a day and on every push, so the stats, LOC and Uptime stay current without manual edits.
-
 ---
 
 #### End-to-End AI and ML - Practical and Theory
